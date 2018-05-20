@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/sqlformat",
+  "version": "1.0.0",
+  "description": "Format and beautify SQL queries",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/sqlformat.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/index.test.js"
+  },
+  "bin": {
+    "sqlformat": "bin/cli.js"
+  }
+}
