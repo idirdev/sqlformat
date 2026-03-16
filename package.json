@@ -18,5 +18,9 @@
   },
   "bin": {
     "sqlformat": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/sqlformat",
+  "bugs": {
+    "url": "https://github.com/idirdev/sqlformat/issues"
   }
 }
